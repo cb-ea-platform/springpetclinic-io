@@ -19,7 +19,7 @@ You can read more about the Advantages of having Rollout configuration stored an
 
 
 # Repository, Directories and YAML structure
-## Branches are Environments and all the things
+## Branches are Environments and things
 
 Every environment on Rollout dashboard is mapped to a branch in git. The same name that is used for the environment will be used for the branch name. The only exception being Production environment which is mapped to `master` branch
 
