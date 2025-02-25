@@ -3,7 +3,7 @@ type: experiment
 flag: enableTutorial
 platforms:
   - name: Browser
-    value: false
+    value: true
   - name: Java
     value: true
 value: true
