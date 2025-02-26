@@ -22,5 +22,6 @@ public class Flags implements RoxContainer {
 		WHITE, BLUE, GREEN, YELLOW
 
 	}
+	public RoxFlag isTestFlag = new RoxFlag(true);
 
 }
